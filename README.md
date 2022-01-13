@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Divyanshu. 
 - 👀 I’m interested in Machine Learning. 
 - 🌱 I’m currently learning Computer Vision, NLP. 
-- 💞️ I’m looking to collaborate on projects related to Machine Learning, particularly computer vision.
+- 💞️ I’m looking to collaborate on projects related to NLP, Computer Vision.
 - 📫 How to reach me- mail me at divyanshumishra2703@gmail.com
 
 <!---
